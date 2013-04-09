@@ -10,14 +10,14 @@
 
 	<groupId>com.barchart.wrap</groupId>
 	<artifactId>barchart-wrap-apache-http-all</artifactId>
-	<version>4.2.3-build001</version>
+	<version>4.2.3-build002-SNAPSHOT</version>
 	<packaging>bundle</packaging>
 
 	<scm>
 		<url>https://github.com/barchart/barchart-wrap-apache-http-all</url>
 		<connection>scm:git:git://github.com/barchart/barchart-wrap-apache-http-all.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/barchart/barchart-wrap-apache-http-all.git</developerConnection>
-	  <tag>barchart-wrap-apache-http-all-4.2.3-build001</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<description>
