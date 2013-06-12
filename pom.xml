@@ -171,7 +171,6 @@
 				<artifactId>maven-bundle-plugin</artifactId>
 				<configuration>
 					<instructions>
-						<_failok>true</_failok>
 						<_removeheaders>
 							Service-Component,
 							Private-Package,
