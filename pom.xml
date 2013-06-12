@@ -80,7 +80,7 @@
 
 		<plugins>
 
-			<!-- unpack source and dependencies -->
+			<!-- unpack source and classes -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-dependency-plugin</artifactId>
@@ -100,7 +100,7 @@
 						</configuration>
 					</execution>
 					<execution>
-						<id>unpack-dependencies</id>
+						<id>unpack-classes</id>
 						<phase>prepare-package</phase>
 						<goals>
 							<goal>unpack-dependencies</goal>
